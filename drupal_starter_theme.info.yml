@@ -3,3 +3,5 @@ type: theme
 # package: Other
 description: 'My starter theme for Drupal. Used for learning purposes.'
 core_version_requirement: ^8 || ^9
+libraries:
+ - drupal-starter-theme/global-styling
