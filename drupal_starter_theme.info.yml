@@ -5,3 +5,17 @@ description: 'My starter theme for Drupal. Used for learning purposes.'
 core_version_requirement: ^8 || ^9
 libraries:
  - drupal-starter-theme/global-styling
+
+ base theme: classy
+
+ regions:
+  branding: 'Branding'
+  navigation: 'Main navigation'
+  search: 'Search'
+  featured: 'Featured'
+  content: 'Content'
+  right_sidebar: 'Right sidebar'
+  footer_first: 'Footer first'
+  footer_second: 'Footer second'
+  footer_third: 'Footer third'
+  footer_bottom: 'Footer bottom'
