@@ -4,4 +4,4 @@ global-styling:
     theme: 
       css/style.css: {}
   js:
-    js/script.js: {}
+      js/script.js: {}

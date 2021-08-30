@@ -4,11 +4,9 @@ type: theme
 description: 'My starter theme for Drupal. Used for learning purposes.'
 core_version_requirement: ^8 || ^9
 libraries:
- - drupal-starter-theme/global-styling
-
- base theme: classy
-
- regions:
+ - 'drupal-starter-theme/global-styling'
+base theme: classy
+regions:
   branding: 'Branding'
   navigation: 'Main navigation'
   search: 'Search'
